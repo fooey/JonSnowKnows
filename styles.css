@@ -1,0 +1,11 @@
+html, body, h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body{padding: 1em; font-family: 'Wire One', sans-serif;}
+h1{font-size: 144px; font-weight: 400; text-align: center; color: #eee;}
